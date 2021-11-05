@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39a2eba3-5e1c-4b3f-a985-f47c9fca73b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conversao-Monetaria" beforeDir="false" afterPath="$PROJECT_DIR$/Conversao-Monetaria" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conversao-Monetaria/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Conversao-Monetaria/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conversao-Monetaria/classes.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conversao-Monetaria/funcoes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Conversao-Monetaria/funcoes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conversao-Monetaria/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Conversao-Monetaria/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conversao-Monetaria" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Conversao-Monetaria" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="20V1p8Rl8aoJn8P9n2aGEvH9w4D" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -63,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636115120590</updated>
-      <workItem from="1636115121999" duration="6859000" />
+      <workItem from="1636115121999" duration="7182000" />
     </task>
     <servers />
   </component>

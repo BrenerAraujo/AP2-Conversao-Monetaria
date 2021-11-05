@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta http-equiv="X-UA-Compatible" content="ie=edge">
+		<title>Conversão Monetária</title>
+		<link rel="stylesheet" href="estilo.css">
+	</head>
+
+	<body>
+		<header>
+			<h1>Conversão Monetária</h1>
+		</header>
+        <section>
+            <main>
+                <div id="dados">
+                    <p>
+                        <label for="moeda1"></label>
+                        <select name="moeda1" id="moeda1">
+                            <option SELECTED value="1">Dollar</option>
+                            <option value="2">Real</option>
+                            <option value="3">Euro</option>
+                            <option value="4">Libra</option>
+                            <option value="5">Franco</option>
+                            <option value="6">Pesos</option>
+                        </select>
+                        <label for="numtxt"></label>
+                        <input type="number" name="num" id="numtxt" value="1">
+
+                        <label for="moeda2"></label>
+                        <select name="moeda2" id="moeda2">
+                            <option SELECTED value="2">Real</option>
+                            <option value="1">Dollar</option>
+                            <option value="3">Euro</option>
+                            <option value="4">Libra</option>
+                            <option value="5">Franco</option>
+                            <option value="6">Pesos</option>
+                        </select>
+                    </p>
+                    <p>
+                        <input type="button" value="Calcular valor" onclick="calc_result()">
+                    </p>
+
+                </div>
+                <div id="resultado">
+
+                </div>
+            </main>
+        </section>
+		<footer>
+			<p>&copy; Brener e Matheus</p>
+			<p>Algoritmos e Programação 2</p>
+		</footer>
+		<script src="funcoes.js"></script>
+		<script src="classes/moedas.js"></script>
+        <script src="classes/dollar.js"></script>
+        <script src="classes/real.js"></script>
+        <script src="classes/euro.js"></script>
+        <script src="classes/libra.js"></script>
+        <script src="classes/franco.js"></script>
+        <script src="classes/peso.js"></script>
+
+	</body>
+</html>
