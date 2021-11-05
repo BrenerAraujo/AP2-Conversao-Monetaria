@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="39a2eba3-5e1c-4b3f-a985-f47c9fca73b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Conversao-Monetaria" beforeDir="false" />
-    </list>
+    <list default="true" id="39a2eba3-5e1c-4b3f-a985-f47c9fca73b6" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +55,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636115120590</updated>
-      <workItem from="1636115121999" duration="7182000" />
+      <workItem from="1636115121999" duration="7845000" />
     </task>
     <servers />
   </component>
