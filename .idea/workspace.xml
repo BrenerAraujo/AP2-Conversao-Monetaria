@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="39a2eba3-5e1c-4b3f-a985-f47c9fca73b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conversao-Monetaria" beforeDir="false" afterPath="$PROJECT_DIR$/Conversao-Monetaria" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Conversao-Monetaria/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Conversao-Monetaria/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Conversao-Monetaria/classes.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Conversao-Monetaria/funcoes.js" beforeDir="false" afterPath="$PROJECT_DIR$/Conversao-Monetaria/funcoes.js" afterDir="false" />
@@ -60,7 +63,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636115120590</updated>
-      <workItem from="1636115121999" duration="4857000" />
+      <workItem from="1636115121999" duration="6859000" />
     </task>
     <servers />
   </component>
