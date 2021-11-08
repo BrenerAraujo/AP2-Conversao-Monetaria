@@ -1,4 +1,4 @@
-# Conversao-Monetaria
+# AP2-Conversao-Monetaria
 Aplicação web para conversão monetária.
 
 Este é um projeto criado para a disciplina de Algoritmos e Programação 2.
